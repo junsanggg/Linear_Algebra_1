@@ -19,6 +19,23 @@
 - `refactor`: 코드 리팩토링
 - `chore`: 빌드 설정, 패키지 매니저 설정 등 (코드 로직 변경 없음)
 
+## 실행 방법
+
+### Python
+
+```bash
+python3 week2/실습week2_1.py
+python3 week2/실습week2_2.py
+```
+
+### C/C++
+
+```bash
+g++ week2/실습week2_3.cpp -o 실습week2_3
+./실습week2_3
+```
+
 ## 진행 상황
 
-- [ ] 레포 생성
+- [✅] 레포 생성
+- [✅] 2주차 과제
