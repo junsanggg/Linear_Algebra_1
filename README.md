@@ -1,4 +1,4 @@
-# Linea_Algebra_1
+# Linear_Algebra_1
 
 # 선형대수학 1 실습
 
