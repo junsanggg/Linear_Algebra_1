@@ -26,6 +26,9 @@
 ```bash
 python3 week2/실습week2_1.py
 python3 week2/실습week2_2.py
+python3 week3/실습week3_1.py
+python3 week3/실습week3_2.py
+python3 week3/과제week3.py
 ```
 
 ### C/C++
@@ -50,3 +53,7 @@ clang++ --version
   - [x] 최소제곱법으로 공통해 계산 (Python)
   - [x] 연립방정식 시각화 (Python)
   - [x] 크래머 공식으로 해 계산 및 검증 (C)
+- [x] 3주차 과제
+  - [x] 정방행렬 덧셈 구현 (Python)
+  - [x] 행렬 곱셈 구현 (Python)
+  - [x] 행렬 대각합 계산: 순수 Python 및 numpy 비교 (Python)
