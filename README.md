@@ -8,6 +8,23 @@
 
 선형대수학 1 수업에서 다루는 전반적인 내용을 실습을 통해 정리합니다. 구체적인 주제는 수업 진도에 맞춰 점차 채워나갈 예정입니다.
 
+## 진행 상황
+
+- [x] 레포 생성
+- [x] 2주차 과제
+  - [x] 최소제곱법으로 공통해 계산 (Python)
+  - [x] 연립방정식 시각화 (Python)
+  - [x] 크래머 공식으로 해 계산 및 검증 (C)
+- [x] 3주차 과제
+  - [x] 정방행렬 덧셈 구현 (Python)
+  - [x] 행렬 곱셈 구현 (Python)
+  - [x] 행렬 대각합 계산: 순수 Python 및 numpy 비교 (Python)
+- [x] 5주차 과제
+  - [x] 행 연산(기본행연산)으로 행렬식 계산 및 numpy 검산 (Python)
+  - [x] 두 행렬이 서로 역행렬인지 확인 (Python)
+  - [x] (AB)^-1 = B^-1 A^-1 성질 확인 (Python)
+  - [x] 첨가행렬 [A | I]로 역행렬 계산 (Python)
+
 ## 커밋 메시지 컨벤션
 
 `타입: 내용` 형식으로 작성합니다.
@@ -29,6 +46,10 @@ python3 week2/실습week2_2.py
 python3 week3/실습week3_1.py
 python3 week3/실습week3_2.py
 python3 week3/과제week3.py
+python3 week5/실습week5_1.py
+python3 week5/실습week5_2.py
+python3 week5/실습week5_3.py
+python3 week5/실습week5_4.py
 ```
 
 ### C/C++
@@ -45,15 +66,3 @@ clang++ week2/실습week2_3.cpp -o 실습week2_3
 ```bash
 clang++ --version
 ```
-
-## 진행 상황
-
-- [x] 레포 생성
-- [x] 2주차 과제
-  - [x] 최소제곱법으로 공통해 계산 (Python)
-  - [x] 연립방정식 시각화 (Python)
-  - [x] 크래머 공식으로 해 계산 및 검증 (C)
-- [x] 3주차 과제
-  - [x] 정방행렬 덧셈 구현 (Python)
-  - [x] 행렬 곱셈 구현 (Python)
-  - [x] 행렬 대각합 계산: 순수 Python 및 numpy 비교 (Python)
