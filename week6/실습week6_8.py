@@ -27,7 +27,7 @@ print(det_A)
 print("\n평행육면체 S의 체적")
 print(volume)
 
-# 스칼라 삼중 곱을 이용해도 같은 결과를 구할 수 있습니다.
+# 스칼라 삼중 곱 이용
 cross_product = np.cross(u2, u3)
 triple_product = np.dot(u1, cross_product)
 volume = abs(triple_product)
