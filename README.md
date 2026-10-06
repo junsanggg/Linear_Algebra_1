@@ -24,6 +24,15 @@
   - [x] 두 행렬이 서로 역행렬인지 확인 (Python)
   - [x] (AB)^-1 = B^-1 A^-1 성질 확인 (Python)
   - [x] 첨가행렬 [A | I]로 역행렬 계산 (Python)
+- [x] 6주차 과제
+  - [x] 첨가행렬 [A | I] 행 연산으로 역행렬 계산 (Python)
+  - [x] 역행렬이 존재하지 않는 경우(선형종속) 판정 (Python)
+  - [x] 여인수행렬과 수반행렬로 역행렬 계산 (Python)
+  - [x] 역행렬을 이용한 선형방정식의 해 X = A^-1 b (Python)
+  - [x] 크래머의 규칙으로 2×2 연립방정식 풀이 (Python)
+  - [x] 크래머의 규칙으로 3×3 연립방정식 풀이 (Python)
+  - [x] 크래머의 규칙으로 장력(T1, T2) 계산 (Python)
+  - [x] 행렬식과 스칼라 삼중곱으로 평행육면체 체적 계산 (Python)
 
 ## 커밋 메시지 컨벤션
 
@@ -50,6 +59,14 @@ python3 week5/실습week5_1.py
 python3 week5/실습week5_2.py
 python3 week5/실습week5_3.py
 python3 week5/실습week5_4.py
+python3 week6/실습week6_1.py
+python3 week6/실습week6_2.py
+python3 week6/실습week6_3.py
+python3 week6/실습week6_4.py
+python3 week6/실습week6_5.py
+python3 week6/실습week6_6.py
+python3 week6/실습week6_7.py
+python3 week6/실습week6_8.py
 ```
 
 ### C/C++
