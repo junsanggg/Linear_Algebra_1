@@ -33,6 +33,13 @@
   - [x] 크래머의 규칙으로 3×3 연립방정식 풀이 (Python)
   - [x] 크래머의 규칙으로 장력(T1, T2) 계산 (Python)
   - [x] 행렬식과 스칼라 삼중곱으로 평행육면체 체적 계산 (Python)
+- [x] 7주차 과제
+  - [x] 가우스-조던 소거법(피벗 선택·행 교환)으로 4×4 연립방정식 풀이 (Python)
+  - [x] 가우스 소거법과 후진 대입으로 3×3 연립방정식 풀이 (Python)
+  - [x] 우변이 다른 두 시스템을 하나의 첨가행렬로 동시에 풀이 (Python)
+  - [x] 가우스 소거법으로 LU 분해 및 검산 (Python)
+  - [x] LU 분해 복습 (Python)
+  - [x] 회전행렬로 정사각형 꼭짓점 회전 및 시각화 (Python)
 
 ## 커밋 메시지 컨벤션
 
@@ -67,6 +74,12 @@ python3 week6/실습week6_5.py
 python3 week6/실습week6_6.py
 python3 week6/실습week6_7.py
 python3 week6/실습week6_8.py
+python3 week7/실습week7_1.py
+python3 week7/실습week7_2.py
+python3 week7/실습week7_3.py
+python3 week7/실습week7_4.py
+python3 week7/실습week7_5.py
+python3 week7/실습week7_6.py
 ```
 
 ### C/C++
